@@ -1,0 +1,100 @@
+@media screen  and (max-width: 980px)
+{
+	#main-container, .container {
+		padding-top: 0px;
+	}
+
+	
+
+
+}
+
+
+
+
+.main-section {
+
+		border-top-width: 20px;
+		border-bottom-width: 400px; }
+
+	body {
+
+		background-color: #ddd;
+		
+	}
+
+	input {
+		float: left;
+	}
+
+	h1, label{
+		text-align: left;
+		
+	}
+
+	h1 {
+		font-size: 2rem;
+	}
+
+	label {
+		font-size: 1rem;
+	}
+	#masterheader {
+		margin-bottom: 20px;
+
+	}
+
+	#main-container {
+		padding-top: 110px;
+	}
+
+
+
+@media screen  and (max-width: 640px)
+{
+	#main-container {
+
+		padding-top: 0px;
+		text-align: left;
+		
+	}
+
+	.header2 {
+		
+		float: left;
+
+	}
+
+	nav {
+
+		background-color: #fff;
+
+	}
+
+	.main-section {
+
+	border-top-width: 20px;
+	border-bottom-width: 400px;
+
+	}
+
+ul {
+
+	padding-left: 0px;
+
+	}
+
+footer {
+
+		height: 40%;
+	
+	}
+
+.container {
+	height: 60px;
+	padding-top: 10px;
+}
+
+
+}
+
